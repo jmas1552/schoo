@@ -1,1 +1,2 @@
-#Schoo練習用のリポジトリ
+.DS_Store
+Thumbs.db
